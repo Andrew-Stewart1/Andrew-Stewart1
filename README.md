@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Andrew Stewart, a 4th year cyber-security student. I enjoy rock climbing and video games in my free time. 
 
 <!--
 **Andrew-Stewart1/Andrew-Stewart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
