@@ -1,6 +1,12 @@
 ## Hi, I'm Andrew Stewart, a 4th year cyber-security student. I enjoy rock climbing and video games in my free time. 
+## Create a repository on GitHub
+## Create a branch on GitHub
+## Make changes to the branch
+## Open a pull request on GitHub
+## Merge your pull request
 
-<!--
+
+
 **Andrew-Stewart1/Andrew-Stewart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
